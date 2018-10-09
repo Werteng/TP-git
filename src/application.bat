@@ -1,3 +1,5 @@
- ### application.bat - 201x - votre nom ###
+ ### application.bat - 201x - Lucas Antoine ###
 Build : 10:00
-echo "version 1"
+
+echo "Copyright company - 201x"
+echo "version 1.1"
