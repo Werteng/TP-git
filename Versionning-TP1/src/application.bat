@@ -1,5 +1,6 @@
- ### application.bat - 201x - Lucas Antoine ###
-Build : 10:00
+### application.bat - 201x - Lucas Antoine ###
+version = "2"
+build_hour = "11H00"
 
-echo "Copyright company - 201x"
-echo "version 1.1"
+echo "Build ${build_hour}"
+echo "version ${version}"
